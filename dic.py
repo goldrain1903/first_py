@@ -9,3 +9,4 @@ for month in mos_qty:
 	print(month + "판매량 : " + str(total))
 
 print('*' * 10)
+print('*' * 10)
