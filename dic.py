@@ -10,3 +10,6 @@ for month in mos_qty:
 
 print('*' * 10)
 print('*' * 10)
+
+
+print("test")
